@@ -2,6 +2,9 @@
 /temp/
 *.code-workspace
 /.git.bfg-report/
+/.Xil/
 /NA/
 
 /vivado_project/*
+
+pre-commit.py

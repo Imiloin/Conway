@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN J18 [get_ports {TMDS_0_data_p[2]}]
+set_property PACKAGE_PIN K19 [get_ports {TMDS_0_data_p[1]}]
+set_property PACKAGE_PIN K17 [get_ports {TMDS_0_data_p[0]}]
+set_property PACKAGE_PIN L16 [get_ports TMDS_0_clk_p]
+set_property IOSTANDARD TMDS_33 [get_ports {TMDS_0_data_p[2]}]
+set_property IOSTANDARD TMDS_33 [get_ports {TMDS_0_data_p[1]}]
+set_property IOSTANDARD TMDS_33 [get_ports {TMDS_0_data_p[0]}]
+set_property IOSTANDARD TMDS_33 [get_ports TMDS_0_clk_p]
