@@ -1,0 +1,7 @@
+/.vscode/
+/temp/
+*.code-workspace
+/.git.bfg-report/
+/NA/
+
+/vivado_project/*
